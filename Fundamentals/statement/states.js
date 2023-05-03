@@ -23,14 +23,4 @@ function myFunction() {
     document.getElementById("demo2").innerHTMl = "Hello Space!";
 }
 
-// Abaixo algumas KeyWords que vamos ver mais à frente
-var casa = y . z; // Declara uma variável
-let // Declara uma variável em bloco
-const word = z . y // Declara uma constante em bloco
-if // Marca um bloco de instrução para ser executado em uma condição
-switch // Marca um bloco de instrução para ser executado em diferentes casos
-for // Marca um bloco de instruções para ser executado em loop
-function // Declara uma Função
-return // Sai de uma função/Retorna um valor
-try // Implementa o tratamento de erros para um bloco de instruções
 
